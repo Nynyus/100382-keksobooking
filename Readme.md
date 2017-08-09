@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Anna Istomina](https://up.htmlacademy.ru/javascript/10/user/100382).
-* Наставник: [Yury Katkov]
+* Наставник: [Yury Katkov] (https://up.htmlacademy.ru/javascript/10/user/473867)
 
 ---
 
